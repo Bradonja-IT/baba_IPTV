@@ -10,8 +10,8 @@ https://lat.rtrs.tv/program/uzivo.php?c=2
 
 # test Stream
 
-#EXTINF:-1 tvg-id="TestStream" tvg-name="Test Stream" group-title="Test",Test Stream
-https://bitdash-a.akamaihd.net/content/sintel/hls/playlist.m3u8
+#EXTINF:-1 tvg-id="BBB" tvg-name="Big Buck Bunny" group-title="Test",Big Buck Bunny
+https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
 
 # ======== Beispiel für Erweiterung ========
 # Du kannst jederzeit weitere Kanäle hinzufügen.
