@@ -1,0 +1,15 @@
+#EXTM3U
+
+# ======== Öffentlich-rechtliche Sender (Republika Srpska) ========
+
+#EXTINF:-1 tvg-id="RTRS" tvg-name="RTRS TV" group-title="Republika Srpska",RTRS TV (Live)
+https://parh.rtrs.tv/tv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTRS_RADIO" tvg-name="RTRS Radio" group-title="Republika Srpska",RTRS Radio (Live)
+https://lat.rtrs.tv/program/uzivo.php?c=2
+
+# ======== Beispiel für Erweiterung ========
+# Du kannst jederzeit weitere Kanäle hinzufügen.
+# Das Schema ist:
+#EXTINF:-1 tvg-id="ID" tvg-name="Name" group-title="Gruppe",Anzeigename
+#URL
